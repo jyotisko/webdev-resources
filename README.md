@@ -23,7 +23,11 @@
  - [0to255](https://www.0to255.com/): This website provides a lots of color and their shades.
  - [UI Gradients](https://uigradients.com/): UI Gradients provides you the coolest gradients, allows you to customize them and more!
 
-
+# VS Code Extensions
+- [Live Server](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer): Live Server reloads the browser everytime you save any file, making you more productive and saves a ton of time.
+- [HTML CSS Support](https://marketplace.visualstudio.com/items?itemName=ecmel.vscode-html-css): Enables you to write faster HTML CSS code using snippets.
+- [Bracket Pair Colorizer](https://marketplace.visualstudio.com/items?itemName=CoenraadS.bracket-pair-colorizer): If you work in web development, chances are you will spend a lot of time finding the pair for a brackets. Bracket Pair Colorizer colorizes each pair of brackets making it easier to distinguish them.
+- [Prettier](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode): Prettier is a code formatter that formats your code, making it readable. You can change its settings to make the code look the way you want! 
 
 
 
