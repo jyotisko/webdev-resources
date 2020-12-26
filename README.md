@@ -9,9 +9,10 @@
 # Web Design Tools
 - [Figma](https://www.figma.com/downloads/): Figma is a very useful tool for web designs. Many UI/UX designers use it and its my top choice.
 - [Sketch 3](https://www.sketch.com/): Another great web designing tool.
+- [Adobe XD](https://www.adobe.com/products/xd.html): (*free and paid*) Adobe XD is another great tool for web design.
 
 # Logo Design
-- [Adobe Illustrator](https://www.adobe.com/products/illustrator.html): (*not free*) Adobe Illustrator might be the best logo desgning tool, helps you create high quality SVG logos.
+- [Adobe Illustrator](https://www.adobe.com/products/illustrator.html): (*paid*) Adobe Illustrator might be the best logo desgning tool, helps you create high quality SVG logos.
 - [Tailor brands](https://www.tailorbrands.com/): (*free and paid*): Enables you to create high quality logo, free version is good to get started.
 - [Wix Logo Maker](https://www.wix.com/logo/maker): (*free and paid*) Wix Logo Maker helps you create logos, it has a very inexpensive premium membership, but the free version is also good to get started.
  - [Logo Maker](https://secure.logomaker.com/logomaker/): (*paid*) If your main priority is to create a logo quickly and make it look good, then Logo Maker is the place to go.
