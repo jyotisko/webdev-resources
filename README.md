@@ -30,5 +30,10 @@
 - [Bracket Pair Colorizer](https://marketplace.visualstudio.com/items?itemName=CoenraadS.bracket-pair-colorizer): If you work in web development, chances are you will spend a lot of time finding the pair for a brackets. Bracket Pair Colorizer colorizes each pair of brackets making it easier to distinguish them.
 - [Prettier](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode): Prettier is a code formatter that formats your code, making it readable. You can change its settings to make the code look the way you want! 
 
+# Learning resources
+- [Udemy](https://udemy.com): (*free and paid*) Udemy is my favorite learning platform. Top courses, by top instructors, at low cost right on any device!
+- [Youtube](https://youtube.com): (*free*) YouTube is the largest video uploading platform on The Internet, you can take courses for anything on youtube!
+- [w3schools](https://www.w3schools.com/): (*free*) w3school provide articles for almost anything in web development and beyond! 
+
 
 
