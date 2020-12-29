@@ -35,5 +35,8 @@
 - [Youtube](https://youtube.com): (*free*) YouTube is the largest video uploading platform on The Internet, you can take courses for anything on youtube!
 - [w3schools](https://www.w3schools.com/): (*free*) w3school provide articles for almost anything in web development and beyond! 
 
-
-
+# Chrome Extensions
+- [Color Picker EyerDropper](https://chrome.google.com/webstore/detail/colorpick-eyedropper/ohcpnigalekghcmgcdcenkpelffpdolg?hl=en): With this tool, you can pick color from any website, pixel by pixel!
+- [What Font](https://chrome.google.com/webstore/detail/whatfont/jabopobgcpjmedljpbcaablpmlmfcogm): This tool allows you to see what font a specific website is using just by hovering over the text!
+- [JSON Formatter](https://chrome.google.com/webstore/detail/json-formatter/bcjindcccaagfpapjjmafapmmgkkhgoa?hl=en): We mostly get data from API in JSON format. This tool parses the JSON code making it easier to read.
+- [CSS Viewer](https://chrome.google.com/webstore/detail/cssviewer/ggfgijbpiheegefliciemofobhmofgce?hl=en): CSS Viewer allows you view the styles for any element in a website just by hovering over it! Its simple and powerful!
