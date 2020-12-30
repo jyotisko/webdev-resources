@@ -34,6 +34,7 @@
 - [Udemy](https://udemy.com): (*free and paid*) Udemy is my favorite learning platform. Top courses, by top instructors, at low cost right on any device!
 - [Youtube](https://youtube.com): (*free*) YouTube is the largest video uploading platform on The Internet, you can take courses for anything on youtube!
 - [w3schools](https://www.w3schools.com/): (*free*) w3school provide articles for almost anything in web development and beyond! 
+- [freecodecamp](www.freecodecamp.org): (*free*) Offers high quality courses to enhance your skills!
 
 # Chrome Extensions
 - [Color Picker EyerDropper](https://chrome.google.com/webstore/detail/colorpick-eyedropper/ohcpnigalekghcmgcdcenkpelffpdolg?hl=en): With this tool, you can pick color from any website, pixel by pixel!
