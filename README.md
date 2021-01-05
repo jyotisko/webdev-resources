@@ -37,9 +37,12 @@
 - [freecodecamp](www.freecodecamp.org): (*free*) Offers high quality courses to enhance your skills!
 
 # Chrome Extensions
-- [Color Picker EyerDropper](https://chrome.google.com/webstore/detail/colorpick-eyedropper/ohcpnigalekghcmgcdcenkpelffpdolg?hl=en): With this tool, you can pick color from any website, pixel by pixel!
+- [Color Picker Eye Dropper](https://chrome.google.com/webstore/detail/colorpick-eyedropper/ohcpnigalekghcmgcdcenkpelffpdolg?hl=en): With this tool, you can pick color from any website, pixel by pixel!
 - [What Font](https://chrome.google.com/webstore/detail/whatfont/jabopobgcpjmedljpbcaablpmlmfcogm): This tool allows you to see what font a specific website is using just by hovering over the text!
 - [JSON Formatter](https://chrome.google.com/webstore/detail/json-formatter/bcjindcccaagfpapjjmafapmmgkkhgoa?hl=en): We mostly get data from API in JSON format. This tool parses the JSON code making it easier to read.
 - [CSS Viewer](https://chrome.google.com/webstore/detail/cssviewer/ggfgijbpiheegefliciemofobhmofgce?hl=en): CSS Viewer allows you view the styles for any element in a website just by hovering over it! Its simple and powerful!
 - [React Dev Tools](https://chrome.google.com/webstore/detail/react-developer-tools/fmkadmapgofadopljbjfkapdkoienihi?hl=en): If you are learning react, or are a react developer, this extension will help you. This extension brings two new menus to the 'Chrome Dev Tools', 'Components' and 'Profiler' to help you do react development easily!
 - [Kontrast](https://chrome.google.com/webstore/detail/kontrast-wcag-contrast-ch/haphaaenepedkjngghandlmhfillnhjk?hl=en): This tool enables you to check the contrast of the foreground and background, and tells if its suitable and is good for the eyes.
+
+# Icons and SVGs
+- [Font Awesome](fontawesome.com): 100000+ icons and svgs! Everything you ever need!
