@@ -48,4 +48,4 @@
 ## Icons and SVGs
 - [Font Awesome](fontawesome.com): 100000+ icons and svgs! Everything you ever need!
 - [Icon Works](http://icon-works.com/): A large collection of FREE icons!
-- [Flaticon]: A huge collection of over 3 Million icons and SVGs!
+- [Flaticon](https://www.flaticon.com/): A huge collection of over 3 Million icons and SVGs!
