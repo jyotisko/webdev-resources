@@ -49,3 +49,7 @@
 - [Font Awesome](fontawesome.com): 100000+ icons and svgs! Everything you ever need!
 - [Icon Works](http://icon-works.com/): A large collection of FREE icons!
 - [Flaticon](https://www.flaticon.com/): A huge collection of over 3 Million icons and SVGs!
+
+## Design And Inspiration
+- [SiteInspire](siteinspire.com): A site that will inspire you to create your own site!
+- [Dribbble](dribbble.com): A ton of designs to choose from!
